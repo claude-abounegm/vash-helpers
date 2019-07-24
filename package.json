@@ -1,0 +1,36 @@
+{
+    "name": "vash-helpers",
+    "version": "1.0.0",
+    "description": "A collection of helpers for vash",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/claude-abounegm/vash-helpers.git"
+    },
+    "keywords": [
+        "vash",
+        "helpers",
+        "javascript",
+        "js",
+        "express"
+    ],
+    "author": "Claude Abounegm (cabounegm@incomestore.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/claude-abounegm/vash-helpers/issues"
+    },
+    "homepage": "https://github.com/claude-abounegm/vash-helpers#readme",
+    "peerDependencies": {
+        "lodash": "^4.17.15",
+        "vash": "^0.12.6"
+    },
+    "devDependencies": {
+        "eslint": "^6.0.0",
+        "eslint-config-prettier": "^5.0.0",
+        "eslint-plugin-prettier": "^3.1.0",
+        "prettier": "^1.18.2"
+    }
+}
