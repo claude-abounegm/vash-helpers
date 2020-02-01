@@ -1,6 +1,6 @@
 {
     "name": "vash-helpers",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A collection of helpers for vash",
     "main": "index.js",
     "scripts": {
